@@ -1,0 +1,111 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: url("hatterem3.jpg");
+    align-content: center;
+}
+.tarolo {
+    background-color: rgb(112, 109, 105);
+    width: 75%;
+	max-width:700px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+h1 {
+    color: white;
+    text-align: left;
+    border-bottom: 2px dotted rgb(153, 145, 145);
+    letter-spacing: 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 5px;
+    font-weight: bold;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+}
+p {
+    color:white;
+    word-spacing: 5px
+}
+img {
+    padding: 2px;
+}
+.braile {
+    margin: 7px;
+}
+.braile img {
+    width: 200px;
+    height: auto;
+    border-style: dotted;
+    margin: 12px;
+    border-color: rgb(153, 145, 145);
+    float: left;
+}
+.braile h2 {
+    margin-left: 12px;
+    font-size: 14px;
+}
+.braile p {
+    text-align: justify;
+}
+.pontirogep {
+    margin: 5px;
+}
+.pontirogep img {
+    width: 250px;
+    height: auto;
+    border-style: dotted;
+    margin: 12px;
+    border-color: rgb(153, 145, 145);
+    float: right;
+}
+.pontirogep h2 {
+    margin-left: 6px;
+    font-size: 14px;
+}
+.pontierogep p {
+    text-align: justify;
+}
+.louis {
+    margin: 5px;
+}
+.louis img{
+    width: 180px;
+    height: auto;
+    border-style: dotted;
+    margin: 12px;
+    border-color: rgb(153, 145, 145);
+    float: left;
+    max-width: 100%;
+    max-height: 100%;
+}
+.louis h2 {
+    margin-left: 6px;
+    font-size: 14px;
+}
+.louis p {
+    text-align: justify;
+}
+br {
+    clear: both;
+}
+a:hover {
+    color: orangered;
+    background-color: aqua;
+}
+ul {
+    list-style: none;
+}
+.louis {
+    margin: 5px;
+}
+li {
+    padding-top: 12px;
+}
+a {
+    text-decoration: none;
+}
